@@ -1,5 +1,5 @@
 # Sampo Kuokkanen
-Visual artist from Turku Finldand. Currently studying visual arts at Turku Academy of Arts.
+Visual artist from Turku Finland. Currently studying visual arts at Turku Academy of Arts.
 
 <html>
 <style>
@@ -62,6 +62,50 @@ body {
 <!-- Header -->
 <div class="header">
   <h1>Sculpture</h1>
+  <p>...</p>
+</div>
+
+<!-- Photo Grid -->
+<div class="row"> 
+  <div class="column">
+    <img src="EXPERIMENT3.jpg" style="width:200%">
+    <img src="experiment.jpg" style="width:100%">
+    <img src="" style="width:100%">
+    <img src="" style="width:100%">
+    <img src="" style="width:100%">
+    <img src="/w3images/mist.jpg" style="width:100%">
+    <img src="/w3images/paris.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="EXPERIMENT4.jpg" style="width:100%">
+    <img src="/w3images/ocean.jpg" style="width:100%">
+    <img src="/w3images/wedding.jpg" style="width:100%">
+    <img src="/w3images/mountainskies.jpg" style="width:100%">
+    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="/w3images/underwater.jpg" style="width:100%">
+  </div>  
+  <div class="column">
+    <img src="cover.jpg" style="width:100%">
+    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="/w3images/falls2.jpg" style="width:100%">
+    <img src="/w3images/paris.jpg" style="width:100%">
+    <img src="/w3images/nature.jpg" style="width:100%">
+    <img src="/w3images/mist.jpg" style="width:100%">
+    <img src="/w3images/paris.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="POLIS.jpg" style="width:200%">
+    <img src="/w3images/ocean.jpg" style="width:100%">
+    <img src="/w3images/wedding.jpg" style="width:100%">
+    <img src="/w3images/mountainskies.jpg" style="width:100%">
+    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="/w3images/underwater.jpg" style="width:100%">
+  </div>
+</div>
+
+<!-- Header -->
+<div class="header">
+  <h1>Drawings</h1>
   <p>...</p>
 </div>
 
