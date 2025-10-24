@@ -71,7 +71,7 @@ body {
   <div class="column">
     <img src="clay_head_(1).jpg" style="width:200%">
     <img src="alien_sculpt_(3).jpg" style="width:100%">
-    <img src="" wood_mask(3).jpg">
+    <img src="" wood_mask (3).jpg">
     <img src="" style="width:100%">
     <img src="" style="width:100%">
     <img src="/w3images/mist.jpg" style="width:100%">
