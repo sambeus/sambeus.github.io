@@ -71,7 +71,7 @@ body {
   <div class="column">
     <img src="clay_head_(1).jpg" style="width:200%">
     <img src="alien_sculpt_(3).jpg" style="width:100%">
-    <img src="wood_mask (2).jpg" style="width:100%">
+     <img src="molds_(1).jpg" style="width:200%">
   </div>
   <div class="column">
     <img src="clay_head_(2).jpg" style="width:100%">
@@ -82,7 +82,7 @@ body {
     <img src="wood_mask (1).jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="molds_(1).jpg" style="width:200%">
+    <img src="wood_mask (2).jpg" style="width:100%">
     <img src="wood_mask (3).jpg" style="width:100%">
   </div>
 </div>
