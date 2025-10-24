@@ -39,7 +39,7 @@ body {
 .column img {
   margin-top: 8px;
   vertical-align: middle;
-  width: 200%;
+  width: 100%;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
