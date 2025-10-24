@@ -69,25 +69,25 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="IMG_3907.HEIC" style="width:200%">
-    <img src="experiment.jpg" style="width:100%">
-    <img src="" style="width:100%">
+    <img src="clay_head(1).jpg" style="width:200%">
+    <img src="alien_sculpt(3).jpg" style="width:100%">
+    <img src="" wood_mask(3).jpg">
     <img src="" style="width:100%">
     <img src="" style="width:100%">
     <img src="/w3images/mist.jpg" style="width:100%">
     <img src="/w3images/paris.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="EXPERIMENT4.jpg" style="width:100%">
-    <img src="/w3images/ocean.jpg" style="width:100%">
+    <img src="clay_head(2).jpg" style="width:100%">
+    <img src="alien_sculpt(5).jpg" style="width:100%">
     <img src="/w3images/wedding.jpg" style="width:100%">
     <img src="/w3images/mountainskies.jpg" style="width:100%">
     <img src="/w3images/rocks.jpg" style="width:100%">
     <img src="/w3images/underwater.jpg" style="width:100%">
   </div>  
   <div class="column">
-    <img src="cover.jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="latex_sculpture.jpg" style="width:100%">
+    <img src="wood_mask(1).jpg" style="width:100%">
     <img src="/w3images/falls2.jpg" style="width:100%">
     <img src="/w3images/paris.jpg" style="width:100%">
     <img src="/w3images/nature.jpg" style="width:100%">
@@ -95,8 +95,8 @@ body {
     <img src="/w3images/paris.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="POLIS.jpg" style="width:200%">
-    <img src="/w3images/ocean.jpg" style="width:100%">
+    <img src="molds(1).jpg" style="width:200%">
+    <img src="wood_mask(2).jpg" style="width:100%">
     <img src="/w3images/wedding.jpg" style="width:100%">
     <img src="/w3images/mountainskies.jpg" style="width:100%">
     <img src="/w3images/rocks.jpg" style="width:100%">
