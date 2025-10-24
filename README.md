@@ -69,7 +69,7 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="EXPERIMENT3.jpg" style="width:200%">
+    <img src="IMG_3907.HEIC" style="width:200%">
     <img src="experiment.jpg" style="width:100%">
     <img src="" style="width:100%">
     <img src="" style="width:100%">
