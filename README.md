@@ -32,14 +32,14 @@ body {
 .column {
   -ms-flex: 25%; /* IE10 */
   flex: 25%;
-  max-width: 80%;
+  max-width: 25%;
   padding: 0 4px;
 }
 
 .column img {
   margin-top: 8px;
   vertical-align: middle;
-  width: 100%;
+  width: 200%;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
