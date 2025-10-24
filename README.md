@@ -1,5 +1,6 @@
 # Sampo Kuokkanen
 Visual artist from Turku Finland. Currently studying visual arts at Turku Academy of Arts.
+Contact through email at kuokkanensampo@gmail.com
 
 <html>
 <style>
