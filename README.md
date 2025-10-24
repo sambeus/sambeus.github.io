@@ -95,7 +95,7 @@ body {
     <img src="/w3images/paris.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="molds (1).jpg" style="width:200%">
+    <img src="molds_(1).jpg" style="width:200%">
     <img src="wood_mask (2).jpg" style="width:100%">
     <img src="/w3images/wedding.jpg" style="width:100%">
     <img src="/w3images/mountainskies.jpg" style="width:100%">
@@ -124,14 +124,14 @@ body {
   <div class="column">
     <img src="centipide (1).jpg" style="width:100%">
     <img src="cyborg_heads (1).jpg" style="width:100%">
-    <img src="cyborg_heads (2).jpg" style="width:100%">
+    <img src="" style="width:100%">
     <img src="/w3images/mountainskies.jpg" style="width:100%">
     <img src="/w3images/rocks.jpg" style="width:100%">
     <img src="/w3images/underwater.jpg" style="width:100%">
   </div>  
   <div class="column">
     <img src="centipide (2).jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="cyborg_heads (2).jpg" style="width:100%">
     <img src="/w3images/falls2.jpg" style="width:100%">
     <img src="/w3images/paris.jpg" style="width:100%">
     <img src="/w3images/nature.jpg" style="width:100%">
