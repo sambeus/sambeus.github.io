@@ -72,8 +72,8 @@ body {
     <img src="EXPERIMENT3.jpg" style="width:100%">
     <img src="EXPERIMENT4.jpg" style="width:100%">
     <img src="cover.jpg" style="width:100%">
-    <img src="polis.jpg" style="width:100%">
-    <img src="experiment" style="width:100%">
+    <img src="POLIS.jpg" style="width:100%">
+    <img src="experiment.jpg" style="width:100%">
     <img src="/w3images/mist.jpg" style="width:100%">
     <img src="/w3images/paris.jpg" style="width:100%">
   </div>
