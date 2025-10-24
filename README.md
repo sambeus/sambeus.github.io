@@ -9,7 +9,7 @@ Visual artist from Turku Finldand. Currently studying visual arts at Turku Acade
 
 body {
   margin: 0;
-  font-family: Lucida;
+  font-family: Special Elite;
 }
 
 .header {
