@@ -1,7 +1,7 @@
+<!DOCTYPE html>
 # Sampo Kuokkanen
 Sampo Kuokkanen on Turussa asuva taiteilija. Hän opiskelee Turun ammattikorkeakoulussa kuvataiteilija linjalla.
 
-<!DOCTYPE html>
 <html>
 <style>
 * {
@@ -62,8 +62,8 @@ body {
 
 <!-- Header -->
 <div class="header">
-  <h1>Responsive Image Grid</h1>
-  <p>Resize the browser window to see the responsive effect.</p>
+  <h1>Works</h1>
+  <p>...</p>
 </div>
 
 <!-- Photo Grid -->
