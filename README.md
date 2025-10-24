@@ -8,6 +8,7 @@ Visual artist from Turku Finland. Currently studying visual arts at Turku Academ
 }
 
 body {
+  background: #FFEBEE
   margin: 0;
   font-family: Arial;
 }
