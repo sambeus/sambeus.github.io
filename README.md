@@ -122,7 +122,7 @@ body {
     <img src="/w3images/paris.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="centipide (1)" style="width:100%">
+    <img src="centipide (1).jpg" style="width:100%">
     <img src="cyborg_heads (1).jpg" style="width:100%">
     <img src="cyborg_heads (2).jpg" style="width:100%">
     <img src="/w3images/mountainskies.jpg" style="width:100%">
@@ -130,7 +130,7 @@ body {
     <img src="/w3images/underwater.jpg" style="width:100%">
   </div>  
   <div class="column">
-    <img src="centipide (2)" style="width:100%">
+    <img src="centipide (2).jpg" style="width:100%">
     <img src="/w3images/rocks.jpg" style="width:100%">
     <img src="/w3images/falls2.jpg" style="width:100%">
     <img src="/w3images/paris.jpg" style="width:100%">
