@@ -75,7 +75,7 @@ body {
   <div class="column">
     <img src="clay_head_(1).jpg" style="width:200%">
     <img src="alien_sculpt_(3).jpg" style="width:100%">
-     <img src="molds_(1).jpg" style="width:200%">
+    
   </div>
   <div class="column">
     <img src="clay_head_(2).jpg" style="width:100%">
@@ -125,17 +125,16 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="EXPERIMENT3.jpg" style="width:200%">
-    <img src="experiment.jpg" style="width:100%">
+    
   </div>
   <div class="column">
-    <img src="EXPERIMENT4.jpg" style="width:100%">
+   
   </div>  
   <div class="column">
-    <img src="cover.jpg" style="width:100%">
+ 
   </div>
   <div class="column">
-    <img src="POLIS.jpg" style="width:200%">
+  
   </div>
 </div>
 
