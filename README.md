@@ -3,6 +3,7 @@ Visual artist from Turku Finland. Currently studying visual arts at Turku Academ
 
 <div>
     Instagram: @sampo.kuokkanen
+<div>
     Contact through email at kuokkanensampo@gmail.com
 </div>
 
